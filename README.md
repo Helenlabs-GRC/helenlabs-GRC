@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Helen Ifionu
 
-I’m an aspiring **Cybersecurity and GRC (Governance, Risk & Compliance) professional** with a background in business analytics, project management and health & social care. I’m currently developing practical cybersecurity skills while building projects that demonstrate my understanding of security, networking, risk management and compliance.
+I’m an aspiring **Cybersecurity and GRC (Governance, Risk & Compliance) professional** with a background in business analytics, project management and health & social care based in the United Kingdom. I’m currently developing practical cybersecurity skills while building projects that demonstrate my understanding of security, networking, risk management and compliance.
 
 ## 📚 What I'm Currently Learning
 
