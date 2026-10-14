@@ -41,7 +41,7 @@ I’m also building a portfolio of practical cybersecurity projects to demonstra
 
 ## ✨ Fun Fact About Me
 
-My career journey has taken me through **accounting, business analytics, project management and health & social care** — and now cybersecurity! I enjoy learning new things and turning complex information into something practical and easy to understand.
+My career journey has taken me through **accounting, business analytics, project management and health & social care** and now cybersecurity! I enjoy learning new things and turning complex information into something practical and easy to understand.
 
 ## 📫 How to Reach Me
 
